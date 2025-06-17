@@ -41,7 +41,7 @@ Currently, I'm upskilling at **Masai School**, Bangalore, focusing on full-stack
 ---
 
 ## 📊 GitHub Stats:
-![Sanju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanju-Burman&show_icons=true&theme=holi&hide_border=false)<br/>
+![Sanju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanju-Burman&show_icons=true&theme=holi&hide_border=false) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanju-Burman&layout=compact&theme=holi&hide_border=false)
 
 ---
