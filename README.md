@@ -3,7 +3,7 @@ Hi, I'm **Sanju Burman**, born and raised in Jabalpur, Madhya Pradesh, India.
 I hold a **B.Tech** degree and a **Diploma in Computer Science**.  
 Currently, I'm upskilling at **Masai School**, Bangalore, focusing on full-stack development.
 
-🔭 I’m currently working on: Building full-stack web applications and backend projects  
+🔭 I’m currently working on: Building full-stack web applications. 
 👯 I’m looking to collaborate on: Open-source and backend-heavy projects  
 🤝 I’m looking for help with: Express.js, socket.io, and advanced cybersecurity topics  
 🌱 I’m currently learning: JavaScript, API's, Spring Boot.  
