@@ -1,64 +1,131 @@
-# 💫 About Me:
-Hi, I'm **Sanju Burman**, born and raised in Jabalpur, Madhya Pradesh, India.  
-I hold a **B.Tech** degree and a **Diploma in Computer Science**.  
-Currently, I'm upskilling at **Masai School**, Bangalor, focusing on full-stack development.
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="35"> Hi, I'm Sanju Burman
 
-🔭 I’m currently working on: Building full-stack web applications. 
-👯 I’m looking to collaborate on: Open-source and backend-heavy projects  
-🤝 I’m looking for help with: Express.js, socket.io, and advanced cybersecurity topics  
-🌱 I’m currently learning: JavaScript, API's, Spring Boot.  
-💬 Ask me about: Core Java, JavaScript, SQL, MongoDB, Web Development  
-⚡ Fun fact: I have multiple certifications from Cisco Networking Academy and Coursera!
+### Software Developer | Backend Engineer | Qt/QML Developer | Systems Programming Enthusiast
+
+I'm a Software Developer from **Jabalpur, Madhya Pradesh, India** who enjoys building reliable software, scalable backend systems, and cross-platform desktop applications.
+
+Currently working on modern backend architectures while continuously improving my knowledge of distributed systems, cloud infrastructure, and system design.
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanju-burman)  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashusondhiya8@gmail.com)
+## 🚀 About Me
+
+* 💼 Software Developer with experience in **Qt/QML**, **Go**, **Node.js**, and **JavaScript**
+* 🖥️ Building cross-platform desktop applications for **Windows**, **Linux**, and **macOS**
+* ☁️ Working with **AWS S3**, **MinIO**, **Docker**, and backend infrastructure
+* ⚙️ Interested in **System Design**, **Backend Engineering**, **Distributed Systems**, and **Performance Optimization**
+* 🌱 Currently learning **PostgreSQL**, **Microservices**, **Advanced Go**, and **Cloud Architecture**
+* 🤝 Open to collaborating on backend, desktop, and open-source projects
+* 💬 Ask me about **Qt/QML**, **Go**, **Node.js**, **REST APIs**, **Docker**, **PostgreSQL**, and **Linux**
+* ⚡ I enjoy solving complex engineering problems and optimizing software architecture.
 
 ---
 
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+# 🛠 Tech Stack
+
+### Languages
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat\&logo=go\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
+![QML](https://img.shields.io/badge/QML-41CD52?style=flat\&logo=qt\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
 
 ---
 
-## 📊 GitHub Stats:
-![Sanju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanju-Burman&show_icons=true&theme=holi&hide_border=false) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanju-Burman&layout=compact&theme=holi&hide_border=false)
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat)
+![Echo](https://img.shields.io/badge/Go_Echo-00ADD8?style=flat)
+![REST API](https://img.shields.io/badge/REST-02569B?style=flat)
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sanju-Burman&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat\&logo=sqlite\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
 
 ---
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat\&logo=amazonaws\&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 
 ---
 
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=Sanju-Burman&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Tools
+
+![Qt Creator](https://img.shields.io/badge/Qt_Creator-41CD52?style=flat\&logo=qt\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Sanju-Burman&icon=0&color=0)](https://visitcount.itsvg.in)
+# 📈 Current Focus
+
+* Backend Engineering
+* High-performance APIs
+* Object Storage (S3 / MinIO)
+* Docker & Deployment
+* PostgreSQL
+* Authentication & Security
+* System Design
+* Distributed Systems
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sanju-burman)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aashusondhiya8@gmail.com)
+
+---
+
+# 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=Sanju-Burman\&show_icons=true\&theme=tokyonight\&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanju-Burman\&layout=compact\&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=Sanju-Burman\&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Sanju-Burman\&theme=tokyonight\&margin-w=10)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Sanju-Burman\&theme=tokyo-night)
+
+---
+
+# 💭 Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
+
+# 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Sanju-Burman\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
+---
+
+### Thanks for visiting! ⭐
+
+If you like my work, consider giving a ⭐ to my repositories.
