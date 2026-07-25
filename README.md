@@ -102,12 +102,6 @@ Currently working on modern backend architectures while continuously improving m
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Sanju-Burman\&theme=tokyonight\&margin-w=10)
-
----
-
 # 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Sanju-Burman\&theme=tokyo-night)
