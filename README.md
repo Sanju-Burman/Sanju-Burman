@@ -16,7 +16,7 @@ Currently working on modern backend architectures while continuously improving m
 * ⚙️ Interested in **System Design**, **Backend Engineering**, **Distributed Systems**, and **Performance Optimization**
 * 🌱 Currently learning **PostgreSQL**, **Microservices**, **Advanced Go**, and **Cloud Architecture**
 * 🤝 Open to collaborating on backend, desktop, and open-source projects
-* 💬 Ask me about **Qt/QML**, **Go**, **Node.js**, **REST APIs**, **Docker**, **PostgreSQL**, and **Linux**
+* 💬 Ask me about **Qt/QML**, **Go**, **Node.js**, **Java**, **REST APIs**, **Docker**, **PostgreSQL**, and **Linux**
 * ⚡ I enjoy solving complex engineering problems and optimizing software architecture.
 
 ---
